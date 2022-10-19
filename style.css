@@ -38,6 +38,7 @@ body {
   flex-flow: column nowrap;
   align-items: center;
   gap: 1.8rem;
+  margin: 2em;
 }
 
 .card__image {
